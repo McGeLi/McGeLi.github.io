@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Python code for earthquake source parameter calculation---SAES is released</title>
-    <url>/2019/11/05/2019-11-05/</url>
-    <content><![CDATA[<p>We just released an open source package for earthquake source parameter calculation:<br><a href="https://github.com/Johumel/SAES" target="_blank" rel="noopener">https://github.com/Johumel/SAES</a><br>,which implements both single spectral and spectral ratio method to calculate source parameters. Figures with publication quality also generated.<br><img src="/images/SAES.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>News and Updates</category>
-      </categories>
-      <tags>
-        <tag>SAES</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Trip to La Malbaie to repair McGill Charlevoix seismic stations with John O.</title>
-    <url>/2019/12/04/2019-12-04/</url>
-    <content><![CDATA[<p><img src="/images/charlevoix_fig3.jpeg" alt=""><br><img src="/images/charlevoix_fig2.jpeg" alt=""><br><img src="/images/charlevoix_fig1.jpeg" alt=""></p>
-]]></content>
-      <categories>
-        <category>News and Updates</category>
-      </categories>
-  </entry>
-  <entry>
     <title>New paper submitted to JGR!</title>
     <url>/2020/04/23/2020-04-23/</url>
     <content><![CDATA[<p>Our numerical modelling paper titled as “Earthquake rupture through a step-over fault system: A case study of the Leech River Fault, southern Vancouver Island” has been submitted to JGR:Solid Earth.</p>
@@ -43,6 +22,28 @@
     <title>CGU Outstanding Student Paper Award</title>
     <url>/2017/10/02/CGU_Chevron/</url>
     <content><![CDATA[<p>I was awarded the 2017 CGU Chevron Canada Outstanding Student Paper in Seismology! Take a look at my <a href="/papers/CGU2017_Chevron_Ge.pdf">conference paper</a>! </p>
+]]></content>
+      <categories>
+        <category>News and Updates</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Python code for earthquake source parameter calculation---SAES is released</title>
+    <url>/2019/11/05/SAES_release/</url>
+    <content><![CDATA[<p>We just released an open source package for earthquake source parameter calculation:<br><a href="https://github.com/Johumel/SAES" target="_blank" rel="noopener">https://github.com/Johumel/SAES</a><br>,which implements both single spectral and spectral ratio method to calculate source parameters. Figures with publication quality also generated.<br><img src="/images/SAES.png" alt=""></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">print hello world</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>News and Updates</category>
+      </categories>
+      <tags>
+        <tag>SAES</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Trip to La Malbaie to repair McGill Charlevoix seismic stations with John O.</title>
+    <url>/2019/12/04/trip_charlevoix/</url>
+    <content><![CDATA[<p><img src="/images/charlevoix_fig3.jpeg" alt=""><br><img src="/images/charlevoix_fig2.jpeg" alt=""><br><img src="/images/charlevoix_fig1.jpeg" alt=""></p>
 ]]></content>
       <categories>
         <category>News and Updates</category>
